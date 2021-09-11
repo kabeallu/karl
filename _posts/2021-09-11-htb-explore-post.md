@@ -1,24 +1,18 @@
 ---
 title: Hackthebox - Explore
 date: 2021-09-11 
-categories: [hackthebox, walkthroughs, machines]
-tags: [explore hackthebox guide walkthrough]
-
-
+categories: [hackthebox, machines]
+tags: []
 
 image:
   src: /path/to/image/file
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: image alternative text
-
 ---
+# Enumeration
 
-# Explore
 
-## Enumeration
-
-### nmap
 Use nmap to find ports and services running on the target machines
 
 
@@ -138,7 +132,7 @@ SF:n:\x20Close\r\n\r\nInvalid\x20request\x20line:\x20\x16\x03\0\0i\x01\0\0
 SF:e\x03\x03U\x1c\?\?random1random2random3random4\0\0\x0c\0/\0");
 Service Info: Device: phone
 ```
-### Web Dirs
+## User Flag
 
 ```
 gobuster dir -u http://10.10.10.247:59777 -w /usr/share/dirbuster/wordlists/directory-list-2.3-small.txt
@@ -421,7 +415,7 @@ f32017174c7c7e8f50c6da52891ae250
 ```
 Submit the user flag to hackthebox, Congratulations.
 
-## Privilege Escalation
+## Root Flag
 
 While we are still connected through SSH, Check listening ports
 ```
