@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>/posts/htb-cap/</loc>
+<lastmod>2021-09-12T03:09:09+12:00</lastmod>
+</url>
+<url>
+<loc>/posts/htb-explore-post/</loc>
+<lastmod>2021-09-12T03:12:33+12:00</lastmod>
+</url>
+<url>
+<loc>/categories/</loc>
+<lastmod>2021-09-12T03:13:21+12:00</lastmod>
+</url>
+<url>
+<loc>/tags/</loc>
+<lastmod>2021-09-12T03:13:21+12:00</lastmod>
+</url>
+<url>
+<loc>/archives/</loc>
+<lastmod>2021-09-12T03:13:21+12:00</lastmod>
+</url>
+<url>
+<loc>/about/</loc>
+<lastmod>2021-09-12T03:13:21+12:00</lastmod>
+</url>
+<url>
+<loc>/</loc>
+</url>
+<url>
+<loc>/categories/hackthebox/</loc>
+</url>
+<url>
+<loc>/categories/machines/</loc>
+</url>
+</urlset>
