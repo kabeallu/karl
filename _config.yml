@@ -12,16 +12,16 @@ baseurl: ''
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Pacific/Auckland
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Karls Site                          # the main title
+title: Hackthebox
 
-tagline: A place for personal stuff!!
+tagline: Notes and guides for HTTB
 
-description: >-                        # used by seo meta and the atom feed
+description: >-                   
   A minimal, portfolio, sidebar,
   bootstrap Jekyll theme with responsive web design
   and focuses on text presentation.
